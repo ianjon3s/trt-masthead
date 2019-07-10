@@ -1,0 +1,1 @@
+var scene=document.getElementById("moire"),parallaxInstance=new Parallax(scene);
